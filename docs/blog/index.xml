@@ -6,8 +6,77 @@
     <description>Recent content in Blogs on Towards a More Secure SOHO Router</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Feb 2017 19:09:14 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Feb 2017 20:01:37 -0800</lastBuildDate>
     <atom:link href="http://securerouter.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>tip of the hat to routersecurity.org</title>
+      <link>http://securerouter.net/blog/tip-of-the-hat-to-routersecurity.org/</link>
+      <pubDate>Sat, 25 Feb 2017 20:01:37 -0800</pubDate>
+      
+      <guid>http://securerouter.net/blog/tip-of-the-hat-to-routersecurity.org/</guid>
+      <description>&lt;p&gt;It looks like &lt;a href=&#34;http://routersecurity.org&#34;&gt;http://routersecurity.org&lt;/a&gt; has been writing for some time on the topics that interest us.&lt;/p&gt;
+
+&lt;p&gt;A fantastic summary of the consumer router problem: &lt;a href=&#34;http://routersecurity.org/consumerrouters.php&#34;&gt;http://routersecurity.org/consumerrouters.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>why more secure</title>
+      <link>http://securerouter.net/blog/why-more-secure/</link>
+      <pubDate>Sat, 25 Feb 2017 18:18:52 -0800</pubDate>
+      
+      <guid>http://securerouter.net/blog/why-more-secure/</guid>
+      <description>
+
+&lt;p&gt;Current consumer grade router manufacturers do not have much incentive to make a secure product. Sure, they get some bad press every now and then, but even when a specific make and model are named and shamed, the news is gone in the next cycle. Consumer routers are a commodity computing product. Like most electronics products, profit margins are very thin - even thinner as it is so hard to stand out from the crowd, and it is virtually impossible to do premium branding. Even Apple&amp;rsquo;s router products are not sold for (much of) a premium! Nobody is going to pay extra for the thinner rose gold router, when all it is going to do is sit in a corner.&lt;/p&gt;
+
+&lt;p&gt;Routers do have two differentiators - speed, and in the case of a WiFi router - range.&lt;/p&gt;
+
+&lt;p&gt;Sadly, security just isn&amp;rsquo;t on the list.&lt;/p&gt;
+
+&lt;h2 id=&#34;speed-or-the-perception-thereof&#34;&gt;Speed - or the perception thereof&lt;/h2&gt;
+
+&lt;p&gt;Usually what really matters with regards to router speed is that it not slow everything down. It can do this by slowing down your connection to a local device (say, a printer or NAS file server in your home) or by slowing down your connection to the Internet itself.&lt;/p&gt;
+
+&lt;p&gt;Another way of putting it is that a network connection is only as fast as the slowest link.&lt;/p&gt;
+
+&lt;p&gt;But this is complicated as any number of things can cause slowness:
+1. The Internet connection itself - in many (most?) cases, with the possible exception of Gigabit fiber, the router is faster than the Internet connection.
+2. Other devices on the network causing unnecessary congestion
+3. Other WiFi, or even non-WiFi devices causing radio interference
+4. Physical WiFi interference, such as walls, furniture etc
+5. The router&amp;rsquo;s own WiFi radios/antennas/signal (ie: Range, below)
+6. The router&amp;rsquo;s processor and memory
+7. &amp;hellip;and more.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll expand on each of these in future blog posts, but note that only some of them have to do with the router itself.&lt;/p&gt;
+
+&lt;p&gt;As most consumer routers use Gigabit networking for copper wired connections, manufacturers push and most reviews focus on WiFi speed - the better reviews focussing on actual WiFi speed in a home setting, rather than theoretical speed (such as which WiFi networking standard is used) and number of radio(s) and antennas.&lt;/p&gt;
+
+&lt;p&gt;The Wirecutter does excellent reviews, and as of this writing recommends a TP-Link router on the basis of range over speed as well as value per dollar: &lt;a href=&#34;http://thewirecutter.com/reviews/best-wi-fi-router/&#34;&gt;http://thewirecutter.com/reviews/best-wi-fi-router/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But if you need speed, the best way to get it is to run a copper Ethernet cable between the devices in question - for example a home storage NAS with movies and your TV.&lt;/p&gt;
+
+&lt;h2 id=&#34;range&#34;&gt;Range&lt;/h2&gt;
+
+&lt;p&gt;Range only applies to WiFi routers, and as you&amp;rsquo;ll learn in future posts, we&amp;rsquo;re big fans of using copper Ethernet for speed and security. But as long as you are using WiFi at all, the ability of the router to reach your WiFi devices around the house from wherever you put it is an important factor, and entirely dependent on the router you choose.&lt;/p&gt;
+
+&lt;p&gt;But - the best option of all is to place the WiFi router somewhere that it physically is near the WiFi devices you&amp;rsquo;ll be using. Perhaps not in the corner of the basement where your Internet connection enters the house. But this is all too common!&lt;/p&gt;
+
+&lt;h2 id=&#34;and-security&#34;&gt;And.. Security?&lt;/h2&gt;
+
+&lt;p&gt;Notice how speed and range are carefully treated topics - but looking at (The Wirecutter&amp;rsquo;s) &lt;a href=&#34;http://thewirecutter.com&#34;&gt;http://thewirecutter.com&lt;/a&gt; example review, security doesn&amp;rsquo;t get much coverage. A security flaw is mentioned for one of their recommendations but note - that doesn&amp;rsquo;t unrecommend the router!&lt;/p&gt;
+
+&lt;p&gt;To their credit, steps for how to make your router more secure are mentioned - and you should (do these) &lt;a href=&#34;http://thewirecutter.com/reviews/best-wi-fi-router/#router-setup-and-network-maintenance&#34;&gt;http://thewirecutter.com/reviews/best-wi-fi-router/#router-setup-and-network-maintenance&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;tl-dr-consumer-router-manufacturers-don-t-care-about-security-because-they-security-doesn-t-sell&#34;&gt;TL;DR Consumer Router Manufacturers Don&amp;rsquo;t Care About Security Because They Security Doesn&amp;rsquo;t Sell&lt;/h2&gt;
+
+&lt;p&gt;A router is supposed to be secure &lt;em&gt;by default&lt;/em&gt;. A fully secure product is the reasonable expectation of the consumer.&lt;/p&gt;
+
+&lt;p&gt;ut by the time it is discovered that a router has a security defect, the manufacturer is on to the next model with better.. speed and/or range. They&amp;rsquo;ve already sold you your router, so why should they care? There is no incentive to make it more secure initially, or to provide security updates in a timely and automatic way.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>first post welcome</title>
